@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": {
+    "include": ["lib/**/*.jar"],
+    "exclude": [
+      "/图书管理系统/lib/mysql-connector-java-5.1.46-bin.jar",
+      "/图书管理系统/lib/mysql-connector-java-5.1.46.jar"
+    ]
+  }
+}
